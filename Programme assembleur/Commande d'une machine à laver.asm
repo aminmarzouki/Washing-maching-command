@@ -1,0 +1,1 @@
+	list p=PIC16F877A
